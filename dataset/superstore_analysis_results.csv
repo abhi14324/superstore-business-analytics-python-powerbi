@@ -1,0 +1,2 @@
+total_sales,total_profit,total_orders,avg_profit_margin,top_categories,top_regions,delivery_stats,best_segment
+12652495.02,650278.76,1000,5.139529863256962,Furniture,North,"{'Cancelled': 26.900000000000002, 'Pending': 25.1, 'Returned': 24.9, 'Delivered': 23.1}",Corporate
