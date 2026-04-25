@@ -119,9 +119,6 @@ superstore-business-analytics-python-powerbi/
 │   ├── customer_delivery_insights.png
 │   └── inventory_supplier_dashboard.png
 │
-├── documentation/
-│   └── Superstore_Project_Documentation.docx ← Full project documentation
-│
 └── README.md
 ```
 
@@ -299,9 +296,9 @@ Low Stock Items = COUNTROWS(FILTER('Superstore', 'Superstore'[Stock Left] < 10))
 
 The dashboard has been published to Power BI Service for cloud access.
 
-**View Live Dashboard:** [Click here to open in Power BI Service](#) ← *(add your public embed link here)*
+**View Live Dashboard:** [https://app.powerbi.com/groups/b9cc1061-396a-4d50-8f0e-50d72ef5750c/reports/7501c395-9149-4c8a-9ad0-181cfcd663e5/8d7d6b75cabea856ce48?experience=power-bi] 
 
-> ⚠️ To generate a safe public link: Power BI Service → File → Embed Report → Publish to web (public) → Copy the iframe/link
+
 
 Power BI Service enables:
 - 🌐 Online dashboard access from any device
@@ -327,9 +324,9 @@ Power BI Service enables:
 
 **Abhishek Kumar**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](linkedin.com/in/abhishek-kumar-a53b46309)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](github.com/abhi14324)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](ak38022246637@gmail/com)
 
 ---
 
