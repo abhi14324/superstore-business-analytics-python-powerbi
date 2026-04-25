@@ -324,9 +324,9 @@ Power BI Service enables:
 
 **Abhishek Kumar**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](linkedin.com/in/abhishek-kumar-a53b46309)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](github.com/abhi14324)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](ak38022246637@gmail/com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/abhishek-kumar-a53b46309)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/abhi14324)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:ak38022246637@gmail/com)
 
 ---
 
