@@ -296,7 +296,7 @@ Low Stock Items = COUNTROWS(FILTER('Superstore', 'Superstore'[Stock Left] < 10))
 
 The dashboard has been published to Power BI Service for cloud access.
 
-**View Live Dashboard:** [Click here to open in Power BI Service][https://app.powerbi.com/groups/b9cc1061-396a-4d50-8f0e-50d72ef5750c/reports/7501c395-9149-4c8a-9ad0-181cfcd663e5/8d7d6b75cabea856ce48?experience=power-bi] 
+**View Live Dashboard:** [Click here to open in Power BI Service](https://app.powerbi.com/groups/b9cc1061-396a-4d50-8f0e-50d72ef5750c/reports/7501c395-9149-4c8a-9ad0-181cfcd663e5/8d7d6b75cabea856ce48?experience=power-bi)
 
 
 
