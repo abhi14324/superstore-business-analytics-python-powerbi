@@ -23,6 +23,26 @@ The project combines:
 
 ---
 
+## ❓ Problem Statement
+
+Retail superstores generate large volumes of transactional data 
+daily across sales, inventory, customers, and suppliers. 
+Without proper analysis, businesses struggle to:
+
+- Identify which products and categories drive maximum revenue
+- Monitor inventory levels and prevent stockouts
+- Understand customer behavior across different segments
+- Track delivery performance and its impact on profitability
+- Make data-driven decisions for supplier and stock management
+
+This project aims to solve these challenges by building an 
+end-to-end analytics pipeline — from synthetic data generation 
+to interactive Power BI dashboards — that gives business 
+stakeholders clear, actionable insights across all operational 
+areas of a superstore.
+
+---
+
 ## 🎯 Project Objectives
 
 This project answers key business questions such as:
